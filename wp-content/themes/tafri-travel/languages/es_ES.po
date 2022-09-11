@@ -1,0 +1,1221 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Tafri Travel\n"
+"Language-Team: ThemesEye <support@themeseye.com>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 3.0\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;__;_e\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"POT-Creation-Date: \n"
+"PO-Revision-Date: \n"
+"Last-Translator: \n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#: 404.php:13
+msgid "Not Found"
+msgstr "No encontrado"
+
+#: 404.php:14 inc/customizer.php:1647
+msgid ""
+"Looks like you have taken a wrong turn&hellip. Dont worry&hellip it happens "
+"to the best of us."
+msgstr ""
+"Parece que te has equivocado de rumbo. No se preocupe & diablos, nos pasa a "
+"todos."
+
+#: 404.php:18 inc/customizer.php:1657
+msgid "Back to Home Page"
+msgstr "Volver a la página de inicio"
+
+#: search.php:21 search.php:40 search.php:61 search.php:79 search.php:101
+msgid "Results For: %s"
+msgstr "Resultados para:% s"
+
+#: comments.php:28
+msgid "One thought on &ldquo;%s&rdquo;"
+msgstr "Un pensamiento sobre & ldquo;% s & rdquo;"
+
+#: comments.php:38
+msgid "comments title"
+msgstr "título de comentarios"
+
+#: comments.php:68
+msgid "Comments are closed."
+msgstr "Los comentarios están cerrados."
+
+#: footer.php:13 footer.php:15 footer.php:17
+msgid "Scroll Up"
+msgstr "Desplazarse hacia arriba"
+
+#: footer.php:61
+msgid "By ThemesEye"
+msgstr "Por ThemesEye"
+
+#: footer.php:62
+msgid "Powered By WordPress"
+msgstr "Desarrollado por WordPress"
+
+#: functions.php:54
+msgid "Left Menu"
+msgstr "Menú izquierdo"
+
+#: functions.php:55
+msgid "Right Menu"
+msgstr "Menú derecho"
+
+#: functions.php:56
+msgid "Responsive Menu"
+msgstr "Menú receptivo"
+
+#: functions.php:92
+msgid "Blog Sidebar"
+msgstr "barra lateral del blog"
+
+#: functions.php:93
+msgid "Appears on blog page sidebar"
+msgstr "Aparece en la barra lateral de la página del blog"
+
+#: functions.php:102
+msgid "Page Sidebar"
+msgstr "Barra lateral de página"
+
+#: functions.php:103 functions.php:113
+msgid "Appears on page sidebar"
+msgstr "Erscheint in der Seitenleiste"
+
+#: functions.php:112
+msgid "Third Column Sidebar"
+msgstr "Barra lateral de la tercera columna"
+
+#: functions.php:125
+msgid "Footer "
+msgstr "Pie de página"
+
+#: functions.php:136
+msgid "Shop Page Sidebar "
+msgstr "Barra lateral de la página de la tienda"
+
+#: functions.php:137
+msgid "Appears on shop page"
+msgstr "Aparece en la página de la tienda"
+
+#: functions.php:146
+msgid "Single Product Page Sidebar "
+msgstr "Barra lateral de una sola página de producto"
+
+#: functions.php:147
+msgid "Appears on Single Product Page"
+msgstr "Aparece en la página de producto único"
+
+#: functions.php:447
+msgid "Travel WordPress Theme"
+msgstr "Tema de WordPress de viaje"
+
+#: searchform.php:10 searchform.php:11 searchform.php:13
+msgid "Search"
+msgstr "Buscar"
+
+#: searchform.php:11
+msgid "placeholder"
+msgstr "marcador de posición"
+
+#: searchform.php:13
+msgid "submit button"
+msgstr "botón de enviar"
+
+#: sidebar.php:11
+msgid "Archives"
+msgstr "Archivo"
+
+#: sidebar.php:17
+msgid "Meta"
+msgstr "Meta"
+
+#: single.php:32 single.php:57 single.php:84 single.php:108 single.php:136
+msgid "Next"
+msgstr "Próxima"
+
+#: single.php:33 single.php:58 single.php:84 single.php:109 single.php:137
+msgid "Next post"
+msgstr "Publicación siguiente"
+
+#: single.php:34 single.php:59 single.php:85 single.php:110 single.php:138
+msgid "Previous"
+msgstr "Previa"
+
+#: single.php:35 single.php:60 single.php:86 single.php:111 single.php:139
+msgid "Previous post"
+msgstr "Publicación anterior"
+
+#: template-parts/post/content-audio.php:51
+#: template-parts/post/content-gallery.php:40
+#: template-parts/post/content-image.php:35
+#: template-parts/post/content-video.php:50 template-parts/post/content.php:41
+#: template-parts/post/grid-layout:45 inc/customizer.php:2051
+msgid "READ MORE"
+msgstr "LEE MAS"
+
+#: inc/customizer.php:29
+msgid "Theme Settings"
+msgstr "Ajustes de tema"
+
+#: inc/customizer.php:30
+msgid "Description of what this panel does."
+msgstr "Descripción de lo que hace este panel."
+
+#: inc/customizer.php:131
+msgid "Color / Fonts Settings"
+msgstr "Configuración de color / fuentes"
+
+#: inc/customizer.php:141
+msgid "Paragraph Color"
+msgstr "Color del párrafo"
+
+#: inc/customizer.php:155
+msgid "Paragraph Fonts"
+msgstr "Fuentes de párrafo"
+
+#: inc/customizer.php:165
+msgid "Paragraph Font Size"
+msgstr "Tamaño de fuente del párrafo"
+
+#: inc/customizer.php:177
+msgid "\"a\" Tag Color"
+msgstr "Color de etiqueta \"a\""
+
+#: inc/customizer.php:191
+msgid "\"a\" Tag Fonts"
+msgstr "Fuentes de etiqueta \"a\""
+
+#: inc/customizer.php:202
+msgid "\"li\" Tag Color"
+msgstr "Color de etiqueta \"li\""
+
+#: inc/customizer.php:216
+msgid "\"li\" Tag Fonts"
+msgstr "Fuentes de etiqueta \"li\""
+
+#: inc/customizer.php:227
+msgid "h1 Color"
+msgstr "h1 color"
+
+#: inc/customizer.php:241
+msgid "h1 Fonts"
+msgstr "Fuentes h1"
+
+#: inc/customizer.php:252
+msgid "h1 Font Size"
+msgstr "h1 Tamaño de fuente"
+
+#: inc/customizer.php:264
+msgid "h2 Color"
+msgstr "h2 color"
+
+#: inc/customizer.php:278
+msgid "h2 Fonts"
+msgstr "fuentes h2"
+
+#: inc/customizer.php:289
+msgid "h2 Font Size"
+msgstr "Tamaño de fuente h2"
+
+#: inc/customizer.php:301
+msgid "h3 Color"
+msgstr "h3 color"
+
+#: inc/customizer.php:315
+msgid "h3 Fonts"
+msgstr "Fuentes h3"
+
+#: inc/customizer.php:326
+msgid "h3 Font Size"
+msgstr "h3 Tamaño de fuente"
+
+#: inc/customizer.php:338
+msgid "h4 Color"
+msgstr "color h4"
+
+#: inc/customizer.php:352
+msgid "h4 Fonts"
+msgstr "Fuentes h4"
+
+#: inc/customizer.php:363
+msgid "h4 Font Size"
+msgstr "Tamaño de fuente h4"
+
+#: inc/customizer.php:375
+msgid "h5 Color"
+msgstr "h5 color"
+
+#: inc/customizer.php:389
+msgid "h5 Fonts"
+msgstr "Fuentes h5"
+
+#: inc/customizer.php:400
+msgid "h5 Font Size"
+msgstr "h5 Tamaño de fuente"
+
+#: inc/customizer.php:412
+msgid "h6 Color"
+msgstr "h6 color"
+
+#: inc/customizer.php:426
+msgid "h6 Fonts"
+msgstr "Fuentes h6"
+
+#: inc/customizer.php:437
+msgid "h6 Font Size"
+msgstr "h6 Tamaño de fuente"
+
+#: inc/customizer.php:445 inc/customizer.php:453
+msgid "Transparent"
+msgstr "Transparente"
+
+#: inc/customizer.php:450
+msgid "Background Skin Mode"
+msgstr "Modo de piel de fondo"
+
+#: inc/customizer.php:454
+msgid "Background"
+msgstr "Fondo"
+
+#: inc/customizer.php:461
+msgid "Theme Color Option"
+msgstr "Opción de color del tema"
+
+#: inc/customizer.php:469
+msgid "First Color Option"
+msgstr "Opción de primer color"
+
+#: inc/customizer.php:470 inc/customizer.php:481
+msgid "One can change complete theme color on just one click."
+msgstr "Se puede cambiar el color completo del tema con un solo clic."
+
+#: inc/customizer.php:480
+msgid "Second Color Option"
+msgstr "Opción de segundo color"
+
+#: inc/customizer.php:488
+msgid "Shop Page Settings"
+msgstr "Configuración de la página de la tienda"
+
+#: inc/customizer.php:498
+msgid "Related Product"
+msgstr "Producto relacionado"
+
+#: inc/customizer.php:508
+msgid "Product Border"
+msgstr "Borde del producto"
+
+#: inc/customizer.php:518
+msgid "Enable / Disable Shop Page Sidebar"
+msgstr "Habilitar / deshabilitar la barra lateral de la página de la tienda"
+
+#: inc/customizer.php:528
+msgid "Enable / Disable Single Product Sidebar"
+msgstr "Habilitar / deshabilitar la barra lateral de un solo producto"
+
+#: inc/customizer.php:538
+msgid "Total Products Per Columns"
+msgstr "Productos totales por columnas"
+
+#: inc/customizer.php:554
+msgid "Total Products Per Page"
+msgstr "Productos totales por página"
+
+#: inc/customizer.php:564
+msgid "Product Padding (Top Bottom)"
+msgstr "Relleno del producto (parte superior inferior)"
+
+#: inc/customizer.php:579
+msgid "Product Padding (Right Left)"
+msgstr "Relleno del producto (derecha izquierda)"
+
+#: inc/customizer.php:594
+msgid "Product Border Radius"
+msgstr "Radio del borde del producto"
+
+#: inc/customizer.php:609
+msgid "Product Shadow"
+msgstr "Sombra del producto"
+
+#: inc/customizer.php:624
+msgid "Button Padding (Top Bottom)"
+msgstr "Acolchado de botones (superior inferior)"
+
+#: inc/customizer.php:640
+msgid "Button Padding (Right Left)"
+msgstr "Acolchado de botones (derecha izquierda)"
+
+#: inc/customizer.php:655 inc/customizer.php:940
+msgid "Button Border Radius"
+msgstr "Radio del borde del botón"
+
+#: inc/customizer.php:666 inc/customizer.php:674 inc/customizer.php:1434
+msgid "Right"
+msgstr "Derecha"
+
+#: inc/customizer.php:671
+msgid "Product Sale Alignment"
+msgstr "Alineación de venta de productos"
+
+#: inc/customizer.php:675 inc/customizer.php:1433 inc/customizer.php:1885
+msgid "Left"
+msgstr "Izquierda"
+
+#: inc/customizer.php:684
+msgid "Product Sale Border Radius"
+msgstr "Venta de productos Radio de borde"
+
+#: inc/customizer.php:699
+msgid "Top / Bottom Product Sale Padding"
+msgstr "Acolchado de venta de producto superior / inferior"
+
+#: inc/customizer.php:714
+msgid "Left / Right Product Sale Padding"
+msgstr "Acolchado de venta de producto izquierdo / derecho"
+
+#: inc/customizer.php:729
+msgid "Product Sale Font Size"
+msgstr "Producto Venta Tamaño de fuente"
+
+#: inc/customizer.php:740 inc/customizer.php:747
+msgid "Yes"
+msgstr "si"
+
+#: inc/customizer.php:745
+msgid "Woocommerce Products Navigation"
+msgstr "Navegación de productos Woocommerce"
+
+#: inc/customizer.php:748
+msgid "No"
+msgstr "No"
+
+#: inc/customizer.php:755
+msgid "Layout Settings"
+msgstr "opciones de diseño"
+
+#: inc/customizer.php:765 inc/customizer.php:1708
+msgid "Enable / Disable Fixed Header"
+msgstr "Activar / desactivar encabezado fijo"
+
+#: inc/customizer.php:774
+msgid "Fixed Header Padding"
+msgstr "Acolchado de encabezado fijo"
+
+#: inc/customizer.php:790 inc/customizer.php:1678
+msgid "Enable / Disable Preloader"
+msgstr "Habilitar / deshabilitar precargador"
+
+#: inc/customizer.php:795 inc/customizer.php:803 inc/customizer.php:830
+#: inc/customizer.php:839 inc/customizer.php:1294 inc/customizer.php:1302
+#: inc/customizer.php:1308 inc/customizer.php:1316 inc/customizer.php:1875
+#: inc/customizer.php:1883 inc/customizer.php:1905 inc/customizer.php:1912
+#: inc/customizer.php:2079
+msgid "Default"
+msgstr "Defecto"
+
+#: inc/customizer.php:800
+msgid "Preloader Option"
+msgstr "Opción de precargador"
+
+#: inc/customizer.php:804
+msgid "Circle"
+msgstr "Circulo"
+
+#: inc/customizer.php:805
+msgid "Two Circle"
+msgstr "Círculo dos"
+
+#: inc/customizer.php:814
+msgid "Preloader Color Option"
+msgstr "Opción de color del precargador"
+
+#: inc/customizer.php:824
+msgid "Preloader Background Color Option"
+msgstr "Opción de color de fondo del precargador"
+
+#: inc/customizer.php:835
+msgid "Container Box"
+msgstr "Caja contenedor"
+
+#: inc/customizer.php:836
+msgid "Here you can change the Width layout."
+msgstr "Aquí puede cambiar el diseño de Ancho."
+
+#: inc/customizer.php:840
+msgid "Wide Layout"
+msgstr "Disposición amplia"
+
+#: inc/customizer.php:841
+msgid "Box Layout"
+msgstr "Disposición de la caja"
+
+#: inc/customizer.php:851
+msgid "Open Menu icon"
+msgstr "Ícono de menú abierto"
+
+#: inc/customizer.php:863
+msgid "Close Menu icon"
+msgstr "Cerrar el icono del menú"
+
+#: inc/customizer.php:874
+msgid "Featured Image Border Radius"
+msgstr "Imagen destacada Radio de borde"
+
+#: inc/customizer.php:889
+msgid "Featured Image Shadow"
+msgstr "Imagen destacada Sombra"
+
+#: inc/customizer.php:901
+msgid "Button"
+msgstr "Botón"
+
+#: inc/customizer.php:910
+msgid "Top and Bottom Padding "
+msgstr "Acolchado superior e inferior"
+
+#: inc/customizer.php:925
+msgid "Left and Right Padding"
+msgstr "Acolchado izquierdo y derecho"
+
+#: inc/customizer.php:952
+msgid "Topbar Section"
+msgstr "Sección de barra superior"
+
+#: inc/customizer.php:953
+msgid "Add topbar content"
+msgstr "Agregar contenido de la barra superior"
+
+#: inc/customizer.php:964
+msgid "Show / Hide Top Header"
+msgstr "Mostrar / Ocultar encabezado superior"
+
+#: inc/customizer.php:973
+msgid "Topbar Top and Bottom Padding"
+msgstr "Acolchado superior e inferior de la barra superior"
+
+#: inc/customizer.php:989
+msgid "Show / Hide Search"
+msgstr "Mostrar / Ocultar búsqueda"
+
+#: inc/customizer.php:999
+msgid "Change Search Placeholder"
+msgstr "Cambiar marcador de posición de búsqueda"
+
+#: inc/customizer.php:1009
+msgid "Search Icon"
+msgstr "Icono de búsqueda"
+
+#: inc/customizer.php:1020
+msgid "Search Font Size"
+msgstr "Buscar tamaño de fuente"
+
+#: inc/customizer.php:1035
+msgid "Search Padding"
+msgstr "Relleno de búsqueda"
+
+#: inc/customizer.php:1050
+msgid "Search Border Radius"
+msgstr "Radio de borde de búsqueda"
+
+#: inc/customizer.php:1061 inc/customizer.php:1069
+msgid "With Transparent"
+msgstr "Con transparente"
+
+#: inc/customizer.php:1066
+msgid "Header display options"
+msgstr "Opciones de visualización de encabezado"
+
+#: inc/customizer.php:1070
+msgid "Without Transparent"
+msgstr "Sin transparente"
+
+#: inc/customizer.php:1079
+msgid "Social Icons Font Size"
+msgstr "Tamaño de fuente de los iconos sociales"
+
+#: inc/customizer.php:1095
+msgid "Time Icon"
+msgstr "Icono de tiempo"
+
+#: inc/customizer.php:1106
+msgid "Timing"
+msgstr "Sincronización"
+
+#: inc/customizer.php:1117
+msgid "Facebook Icon"
+msgstr "Ícono de Facebook"
+
+#: inc/customizer.php:1128
+msgid "Add Facebook link"
+msgstr "Añadir enlace de Facebook"
+
+#: inc/customizer.php:1140
+msgid "Twitter Icon"
+msgstr "Ícono de Twitter"
+
+#: inc/customizer.php:1151
+msgid "Add Twitter link"
+msgstr "Añadir enlace de Twitter"
+
+#: inc/customizer.php:1163
+msgid "Instagram Icon"
+msgstr "Icono de Instagram"
+
+#: inc/customizer.php:1174
+msgid "Add Instagram link"
+msgstr "Agregar enlace de Instagram"
+
+#: inc/customizer.php:1186
+msgid "Linkedin Icon"
+msgstr "Icono de Linkedin"
+
+#: inc/customizer.php:1197
+msgid "Add Linkedin link"
+msgstr "Añadir enlace Linkedin"
+
+#: inc/customizer.php:1209
+msgid "Pintrest Icon"
+msgstr "Icono de Pinterest"
+
+#: inc/customizer.php:1220
+msgid "Add Pintrest link"
+msgstr "Añadir enlace Pintrest"
+
+#: inc/customizer.php:1232
+msgid "Youtube Icon"
+msgstr "Icono de youtube"
+
+#: inc/customizer.php:1243
+msgid "Add Youtube link"
+msgstr "Añadir enlace de Youtube"
+
+#: inc/customizer.php:1255
+msgid "Show / Hide My Account"
+msgstr "Mostrar / Ocultar mi cuenta"
+
+#: inc/customizer.php:1265
+msgid "My Account Icon"
+msgstr "Mi icono de cuenta"
+
+#: inc/customizer.php:1273
+msgid "Navigation Menus Settings"
+msgstr "Configuración de los menús de navegación"
+
+#: inc/customizer.php:1283
+msgid "Navigation Menus Font Size"
+msgstr "Menús de navegación Tamaño de fuente"
+
+#: inc/customizer.php:1299
+msgid "Navigation Menus Text Transform"
+msgstr "Transformación de texto de los menús de navegación"
+
+#: inc/customizer.php:1303
+msgid "Uppercase"
+msgstr "Mayúscula"
+
+#: inc/customizer.php:1313
+msgid "Navigation Menus Font Weight"
+msgstr "Peso de fuente de los menús de navegación"
+
+#: inc/customizer.php:1317
+msgid "Normal"
+msgstr "Normal"
+
+#: inc/customizer.php:1323
+msgid "Slider Settings"
+msgstr "Configuración del control deslizante"
+
+#: inc/customizer.php:1334
+msgid "Show / Hide slider"
+msgstr "Mostrar / Ocultar control deslizante"
+
+#: inc/customizer.php:1344
+msgid "Show / Hide Slider Title"
+msgstr "Mostrar / Ocultar título del control deslizante"
+
+#: inc/customizer.php:1354
+msgid "Show / Hide Slider Content"
+msgstr "Mostrar / Ocultar contenido del control deslizante"
+
+#: inc/customizer.php:1364
+msgid "Show / Hide Slider Button"
+msgstr "Mostrar / Ocultar botón deslizante"
+
+#: inc/customizer.php:1376
+msgid "Select Slide Image Page"
+msgstr "Seleccionar página de imagen de diapositiva"
+
+#: inc/customizer.php:1377
+msgid "Size of image should be 1600 x 633"
+msgstr "El tamaño de la imagen debe ser 1600 x 633"
+
+#: inc/customizer.php:1384 inc/customizer.php:1392
+msgid "Home page"
+msgstr "Página de inicio"
+
+#: inc/customizer.php:1389
+msgid "Slider Show in"
+msgstr "Control deslizante Mostrar en"
+
+#: inc/customizer.php:1393
+msgid "Blog Page"
+msgstr "Página de blog"
+
+#: inc/customizer.php:1394
+msgid "Both Home page & Blog Page"
+msgstr "Tanto la página de inicio como la página de blog"
+
+#: inc/customizer.php:1403
+msgid "Slider Speed"
+msgstr "Velocidad deslizante"
+
+#: inc/customizer.php:1418
+msgid "600"
+msgstr "seiscientos"
+
+#: inc/customizer.php:1429
+msgid "Slider Height Option"
+msgstr "Opción de altura del control deslizante"
+
+#: inc/customizer.php:1424 inc/customizer.php:1432 inc/customizer.php:1884
+msgid "Center"
+msgstr "Centrar"
+
+#: inc/customizer.php:1409
+msgid "Slider Content Layout"
+msgstr "Diseño de contenido del control deslizante"
+
+#: inc/customizer.php:1439
+msgid "View All Travels"
+msgstr "Ver todos los viajes"
+
+#: inc/customizer.php:1443
+msgid "Slider Button Text"
+msgstr "Texto del botón deslizante"
+
+#: inc/customizer.php:1453
+msgid "Slider Excerpt length"
+msgstr "Longitud del extracto del deslizador"
+
+#: inc/customizer.php:1469
+msgid "Slider Image Opacity"
+msgstr "Imagen del control deslizante Opacidad"
+
+#: inc/customizer.php:1492
+msgid "Top Bottom Slider Content Padding"
+msgstr "Acolchado de contenido deslizante superior inferior"
+
+#: inc/customizer.php:1507
+msgid "Left Right Slider Content Padding"
+msgstr "Izquierda Derecha Control deslizante Contenido Relleno"
+
+#: inc/customizer.php:1523
+msgid "Show / Hide Image Overlay Slider"
+msgstr "Mostrar / ocultar control deslizante de superposición de imágenes"
+
+#: inc/customizer.php:1532
+msgid "Image Overlay Slider Color"
+msgstr "Color del control deslizante de superposición de imágenes"
+
+#: inc/customizer.php:1539
+msgid "Destination Section"
+msgstr "Sección de destino"
+
+#: inc/customizer.php:1540
+msgid "Add section below."
+msgstr "Agregue la sección a continuación."
+
+#: inc/customizer.php:1549
+msgid "Section Title"
+msgstr "Sección de título"
+
+#: inc/customizer.php:1559
+msgid "Section short description"
+msgstr "Breve descripción de la sección"
+
+#: inc/customizer.php:1583
+msgid "Select Category to display post"
+msgstr "Seleccione la categoría para mostrar la publicación"
+
+#: inc/customizer.php:1584
+msgid "Size of image should be 300 x 300"
+msgstr "El tamaño de la imagen debe ser de 300 x 300."
+
+#: inc/customizer.php:1593
+msgid "Destination Excerpt length"
+msgstr "Longitud del extracto de destino"
+
+#: inc/customizer.php:1606
+msgid "No Results Settings"
+msgstr "Sin configuración de resultados"
+
+#: inc/customizer.php:1611
+msgid "Nothing Found"
+msgstr "Nada Encontrado"
+
+#: inc/customizer.php:1615
+msgid "No Search Results Title"
+msgstr "Sin título de resultados de búsqueda"
+
+#: inc/customizer.php:1621
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+"Lo sentimos, pero nada coincide con sus términos de búsqueda. Intente "
+"nuevamente con algunas palabras clave diferentes."
+
+#: inc/customizer.php:1625
+msgid "No Search Results Content"
+msgstr "Sin contenido de resultados de búsqueda"
+
+#: inc/customizer.php:1632
+msgid "Page Not Found Settings"
+msgstr "Configuración de página no encontrada"
+
+#: inc/customizer.php:1637
+msgid "404 Not Found"
+msgstr "404 no encontrada"
+
+#: inc/customizer.php:1641
+msgid "Page Not Found Title"
+msgstr "Título de la página no encontrada"
+
+#: inc/customizer.php:1651
+msgid "Page Not Found Content"
+msgstr "Contenido de la página no encontrada"
+
+#: inc/customizer.php:1661
+msgid "Button Text"
+msgstr "Botón de texto"
+
+#: inc/customizer.php:1668
+msgid "Mobile Media Settings"
+msgstr "Configuración de medios móviles"
+
+#: inc/customizer.php:1688
+msgid "Enable / Disable Sidebar"
+msgstr "Habilitar / deshabilitar la barra lateral"
+
+#: inc/customizer.php:1698
+msgid "Enable / Disable Top Header"
+msgstr "Habilitar / deshabilitar el encabezado superior"
+
+#: inc/customizer.php:1718
+msgid "Enable / Disable Slider"
+msgstr "Habilitar / deshabilitar el control deslizante"
+
+#: inc/customizer.php:1728
+msgid "Enable / Disable Slider Button"
+msgstr "Activar / Desactivar botón deslizante"
+
+#: inc/customizer.php:1738
+msgid "Enable / Disable Scroll To Top"
+msgstr "Activar / Desactivar Desplazarse hacia arriba"
+
+#: inc/customizer.php:1748
+msgid "Enable / Disable Search"
+msgstr "Habilitar / deshabilitar búsqueda"
+
+#: inc/customizer.php:1758
+msgid "Enable / Disable My Account"
+msgstr "Habilitar / deshabilitar mi cuenta"
+
+#: inc/customizer.php:1768
+msgid "Enable / Disable Post Date"
+msgstr "Habilitar / deshabilitar la fecha de publicación"
+
+#: inc/customizer.php:1778
+msgid "Enable / Disable Post Author"
+msgstr "Habilitar / deshabilitar publicación de autor"
+
+#: inc/customizer.php:1788
+msgid "Enable / Disable Post Comment"
+msgstr "Activar / desactivar publicar comentario"
+
+#: inc/customizer.php:1798
+msgid "Enable / Disable Single Post Time"
+msgstr "Activar / desactivar el tiempo de publicación única"
+
+#: inc/customizer.php:1804
+msgid "Post Settings"
+msgstr "Post Settings"
+
+#: inc/customizer.php:1814
+msgid "Post Date"
+msgstr "Fecha de publicación"
+
+#: inc/customizer.php:1824
+msgid "Date Icon"
+msgstr "Icono de fecha"
+
+#: inc/customizer.php:1836
+msgid "Post Comments"
+msgstr "Publicar comentarios"
+
+#: inc/customizer.php:1846
+msgid "Comments Icon"
+msgstr "Ícono de comentarios"
+
+#: inc/customizer.php:1858
+msgid "Post Author"
+msgstr "Autor de la publicación"
+
+#: inc/customizer.php:1868
+msgid "Author Icon"
+msgstr "Icono de autor"
+
+#: inc/customizer.php:1880
+msgid "Post Layout Option"
+msgstr "Opción de diseño de publicación"
+
+#: inc/customizer.php:1890 inc/customizer.php:1897
+msgid "Post Image"
+msgstr "Publicar imagen"
+
+#: inc/customizer.php:1895
+msgid "Blog Post Featured Option"
+msgstr "Opción destacada de publicación de blog"
+
+#: inc/customizer.php:1898 inc/customizer.php:1956
+msgid "Post Color"
+msgstr "Publicar color"
+
+#: inc/customizer.php:1899 inc/customizer.php:2017
+msgid "None"
+msgstr "Ninguno"
+
+#: inc/customizer.php:1910
+msgid "Post Featured Image Dimention"
+msgstr "Publicar imagen destacada Dimention"
+
+#: inc/customizer.php:1913
+msgid "Custom Image Size"
+msgstr "Tamaño de imagen personalizado"
+
+#: inc/customizer.php:1924
+msgid "Blog Post Custom Width"
+msgstr "Ancho personalizado de publicación de blog"
+
+#: inc/customizer.php:1940
+msgid "Blog Post Custom Height"
+msgstr "Altura de publicación de blog personalizada"
+
+#: inc/customizer.php:1967
+msgid "Color Post Custom Width"
+msgstr "Ancho personalizado de publicación de color"
+
+#: inc/customizer.php:1983
+msgid "Color Post Custom Height"
+msgstr "Altura personalizada del poste de color"
+
+#: inc/customizer.php:1995 inc/customizer.php:2003
+msgid "Into Blocks"
+msgstr "En bloques"
+
+#: inc/customizer.php:1200
+msgid "Display Blog Page posts"
+msgstr "Mostrar publicaciones de la página del blog"
+
+#: inc/customizer.php:2004
+msgid "Without Blocks"
+msgstr "Sin bloques"
+
+#: inc/customizer.php:2009 inc/customizer.php:2018
+msgid "Post Excerpt"
+msgstr "Extracto de la publicación"
+
+#: inc/customizer.php:2014
+msgid "Post Description"
+msgstr "Descripción de la publicación"
+
+#: inc/customizer.php:2019
+msgid "Post Content"
+msgstr "Publicar Contenido"
+
+#: inc/customizer.php:2028
+msgid "Excerpt length"
+msgstr "Longitud del extracto"
+
+#: inc/customizer.php:2040
+msgid "{...}"
+msgstr "{...}"
+
+#: inc/customizer.php:2044
+msgid "Excerpt Indicator"
+msgstr "Indicador de extracto"
+
+#: inc/customizer.php:2055
+msgid "Add Button Text"
+msgstr "Agregar texto de botón"
+
+#: inc/customizer.php:2066 inc/customizer.php:2077
+msgid "Post Pagination"
+msgstr "Publicar paginación"
+
+#: inc/customizer.php:2080
+msgid "Next / Previous"
+msgstr "Siguiente anterior"
+
+#: inc/customizer.php:2084 inc/customizer.php:2092
+msgid "Only Bottom"
+msgstr "Solo inferior"
+
+#: inc/customizer.php:2090
+msgid "Post Pagination Position Options"
+msgstr "Opciones de posición posterior a la paginación"
+
+#: inc/customizer.php:2093
+msgid "Only Top"
+msgstr "Solo arriba"
+
+#: inc/customizer.php:2094
+msgid "Both Top & Bottom"
+msgstr "Tanto superior como inferior"
+
+#: inc/customizer.php:2099
+msgid "Single Post Settings"
+msgstr "Configuración de publicación única"
+
+#: inc/customizer.php:2109
+msgid "Single Post Date"
+msgstr "Fecha de publicación única"
+
+#: inc/customizer.php:2119
+msgid "Single Post Comments"
+msgstr "Comentarios de publicación única"
+
+#: inc/customizer.php:2129
+msgid "Single Post Author"
+msgstr "Autor de publicación única"
+
+#: inc/customizer.php:2139
+msgid "Single Post Time"
+msgstr "Hora de publicación única"
+
+#: inc/customizer.php:2149
+msgid "Single Post Breadcrumb"
+msgstr "Migaja de pan de un solo poste"
+
+#: inc/customizer.php:2159
+msgid "Single Post Time Icon"
+msgstr "Ícono de tiempo de publicación única"
+
+#: inc/customizer.php:2171
+msgid "Single Post Featured Image"
+msgstr "Imagen destacada de una sola publicación"
+
+#: inc/customizer.php:2181
+msgid "Single Post Tags"
+msgstr "Etiquetas de publicación única"
+
+#: inc/customizer.php:2191
+msgid "Single Post Pagination"
+msgstr "Publicación simple de paginación"
+
+#: inc/customizer.php:2200
+msgid "Single Post Previous Navigation Text"
+msgstr "Publicación única Texto de navegación anterior"
+
+#: inc/customizer.php:2210
+msgid "Single Post Next Navigation Text"
+msgstr "Publicación única Siguiente texto de navegación"
+
+#: inc/customizer.php:2220
+msgid "Single Post Meta Box Seperator"
+msgstr "Separador de caja de meta de un solo poste"
+
+#: inc/customizer.php:2222
+msgid "Add the seperator for meta box. Example: \",\",  \"|\", \"/\", etc."
+msgstr ""
+"Agregue el separador para meta box. Ejemplo: \",\", \"|\", \"/\", etc."
+
+#: inc/customizer.php:2228
+msgid "Leave a Reply"
+msgstr "Deja una respuesta"
+
+#: inc/customizer.php:2233
+msgid "Comment Form Heading"
+msgstr "Encabezado del formulario de comentario"
+
+#: inc/customizer.php:2238
+msgid "Post Comment"
+msgstr "publicar comentario"
+
+#: inc/customizer.php:2243
+msgid "Comment Submit Button Text"
+msgstr "Comentario Enviar texto del botón"
+
+#: inc/customizer.php:2252
+msgid "Comment Form Size"
+msgstr "Tamaño del formulario de comentario"
+
+#: inc/customizer.php:2264
+msgid "Related Post Settings"
+msgstr "Configuraciones de publicaciones relacionadas"
+
+#: inc/customizer.php:2274
+msgid "Related Post"
+msgstr "Publicación relacionada"
+
+#: inc/customizer.php:2279 inc/customizer.php:2287
+msgid "By Categories"
+msgstr "Por categorías"
+
+#: inc/customizer.php:2285
+msgid "Show Related Posts"
+msgstr "Mostrar publicaciones relacionadas"
+
+#: inc/customizer.php:2288
+msgid "By Tags"
+msgstr "Por etiquetas"
+
+#: inc/customizer.php:2292
+msgid "Related Posts"
+msgstr "Artículos Relacionados"
+
+#: inc/customizer.php:2296
+msgid "Change Related Post Title"
+msgstr "Cambiar el título de la publicación relacionada"
+
+#: inc/customizer.php:2306
+msgid "Change Related Post Number"
+msgstr "Cambiar el número de publicación relacionada"
+
+#: inc/customizer.php:2318
+msgid "Footer Section"
+msgstr "Sección de pie de página"
+
+#: inc/customizer.php:2329
+msgid "No. of Footer widget area"
+msgstr "No. de área de widget de pie de página"
+
+#: inc/customizer.php:2331
+msgid ""
+"Select the number of footer widget areas and after that, go to Appearance > "
+"Widgets and add your widgets in the footer."
+msgstr ""
+"Seleccione el número de áreas de widgets de pie de página y luego vaya a "
+"Apariencia> Widgets y agregue sus widgets en el pie de página."
+
+#: inc/customizer.php:2333
+msgid "One"
+msgstr "Una"
+
+#: inc/customizer.php:2334
+msgid "Two"
+msgstr "Dos"
+
+#: inc/customizer.php:2335
+msgid "Three"
+msgstr "Tres"
+
+#: inc/customizer.php:2336
+msgid "Four"
+msgstr "Cuatro"
+
+#: inc/customizer.php:2345 inc/customizer.php:2354
+msgid "Footer Widget Background"
+msgstr "Fondo del widget de pie de página"
+
+#: inc/customizer.php:2364
+msgid "Show / Hide Scroll To Top"
+msgstr "Mostrar / Ocultar Desplazarse hacia arriba"
+
+#: inc/customizer.php:2374
+msgid "Scroll To Top Icon"
+msgstr "Desplazarse al icono superior"
+
+#: inc/customizer.php:2381 inc/customizer.php:2391
+msgid "Right align"
+msgstr "Alinear a la derecha"
+
+#: inc/customizer.php:2386
+msgid "Scroll To Top"
+msgstr "Vuelve al comienzo"
+
+#: inc/customizer.php:2387
+msgid "Here you can change the Footer layout."
+msgstr "Aquí puede cambiar el diseño del pie de página."
+
+#: inc/customizer.php:2390
+msgid "Left align"
+msgstr "Alinear a la izquierda"
+
+#: inc/customizer.php:2392
+msgid "Center align"
+msgstr "Alinear al centro"
+
+#: inc/customizer.php:2401
+msgid "Scroll To Top Font Size"
+msgstr "Desplazarse hacia arriba Tamaño de fuente"
+
+#: inc/customizer.php:2416
+msgid "Scroll Top Bottom Padding"
+msgstr "Desplazamiento superior acolchado inferior"
+
+#: inc/customizer.php:2431
+msgid "Scroll Left Right Padding"
+msgstr "Desplazar relleno de izquierda a derecha"
+
+#: inc/customizer.php:2446
+msgid "Scroll To Top Border Radius"
+msgstr "Desplazarse hasta el radio del borde superior"
+
+#: inc/customizer.php:2461
+msgid "Copyright Top and Bottom Padding"
+msgstr "Relleno superior e inferior con derechos de autor"
+
+#: inc/customizer.php:2476
+msgid "Copyright Text"
+msgstr "Texto de copyright"
+
+#: inc/customizer.php:2477
+msgid "Add some text for footer like copyright etc."
+msgstr "Agregue texto para el pie de página, como derechos de autor, etc."
+
+#: inc/customizer.php:2487
+msgid "Footer Text Font Size"
+msgstr "Tamaño de fuente del texto del pie de página"
+
+#: inc/customizer.php:2499
+msgid "Sidebar Layout Settings"
+msgstr "Agregue texto para el pie de página, como derechos de autor, etc."
+
+#: inc/customizer.php:2506 inc/customizer.php:2515 inc/customizer.php:2531
+msgid "Right Sidebar"
+msgstr "Barra lateral derecha"
+
+#: inc/customizer.php:2511
+msgid "Post Sidebar Layout"
+msgstr "Diseño de la barra lateral de la publicación"
+
+#: inc/customizer.php:2514 inc/customizer.php:2530
+msgid "Left Sidebar"
+msgstr "Barra lateral izquierda"
+
+#: inc/customizer.php:2516 inc/customizer.php:2522 inc/customizer.php:2532
+msgid "One Column"
+msgstr "Una columna"
+
+#: inc/customizer.php:2517
+msgid "Grid Layout"
+msgstr "Diseño de cuadrícula"
+
+#: inc/customizer.php:2527
+msgid "Page Sidebar Layout"
+msgstr "Diseño de la barra lateral de la página"
+
+#: inc/customizer.php:2616
+msgid "Travel Pro Theme"
+msgstr "Travel Pro Theme"
+
+#: inc/customizer.php:2617
+msgid "Go Pro"
+msgstr "Go Pro"

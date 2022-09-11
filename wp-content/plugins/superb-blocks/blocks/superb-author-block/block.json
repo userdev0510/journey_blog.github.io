@@ -1,0 +1,16 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "superb-blocks/superb-author-block",
+	"version": "0.1.0",
+	"title": "Superb Author Box",
+	"category": "widgets",
+	"icon": "id",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "superb-blocks",
+	"editorScript": "file:../../build/superb-author-block.js",
+	"editorStyle": "file:../../build/superb-author-block.css",
+	"style": "file:../../build/style-superb-author-block.css"
+}

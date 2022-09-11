@@ -1,0 +1,16 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "superb-blocks/superb-rating",
+	"version": "0.1.0",
+	"title": "Superb Rating Block",
+	"category": "widgets",
+	"icon": "star-filled",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "superb-blocks",
+	"editorScript": "file:../../build/superb-rating.js",
+	"editorStyle": "file:../../build/superb-rating.css",
+	"style": "file:../../build/style-superb-rating.css"
+}

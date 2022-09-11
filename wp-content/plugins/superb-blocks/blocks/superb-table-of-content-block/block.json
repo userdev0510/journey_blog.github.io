@@ -1,0 +1,16 @@
+{
+	"$schema": "https://schemas.wp.org/trunk/block.json",
+	"apiVersion": 2,
+	"name": "superb-blocks/superb-table-of-content",
+	"version": "0.1.0",
+	"title": "Superb Table of Content",
+	"category": "widgets",
+	"icon": "list-view",
+	"supports": {
+		"html": false
+	},
+	"textdomain": "superb-blocks",
+	"editorScript": "file:../../build/superb-table-of-content.js",
+	"editorStyle": "file:../../build/superb-table-of-content.css",
+	"style": "file:../../build/style-superb-table-of-content.css"
+}
